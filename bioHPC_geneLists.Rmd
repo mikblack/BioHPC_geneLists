@@ -3,8 +3,13 @@ title: "Downstream analysis for transcriptomic data"
 subtitle: "What to do (or not) with gene lists"
 author: "A/Prof Mik Black <BR> Department of Biochemistry <BR> University of Otago"
 date: "BioHPC group: 4 April 2018"
-output: ioslides_presentation
+output:  
+  ioslides_presentation: default
+  github_document: default
 ---
+
+<!-- Run line below in R to render multiple documents: -->
+<!-- rmarkdown::render(here::here("bioHPC_geneLists.Rmd"), output_format='all') -->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
