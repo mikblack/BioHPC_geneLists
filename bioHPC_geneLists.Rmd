@@ -2,7 +2,7 @@
 title: "Downstream analysis for transcriptomic data"
 subtitle: "What to do (or not) with gene lists"
 author: "A/Prof Mik Black <BR> Department of Biochemistry <BR> University of Otago"
-date: "BioHPC group: 4 April 2018"
+date: "BioHPC group: 4 April 2018 <BR> https://github.com/mikblack/BioHPC_geneLists"
 output:  
   ioslides_presentation: default
   github_document: default

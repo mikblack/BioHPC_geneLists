@@ -1,7 +1,7 @@
 Downstream analysis for transcriptomic data
 ================
 A/Prof Mik Black <BR> Department of Biochemistry <BR> University of Otago
-BioHPC group: 4 April 2018
+BioHPC group: 4 April 2018 <BR> <https://github.com/mikblack/BioHPC_geneLists>
 
 <!-- Run line below in R to render multiple documents: -->
 <!-- rmarkdown::render(here::here("bioHPC_geneLists.Rmd"), output_format='all') -->
