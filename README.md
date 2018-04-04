@@ -9,3 +9,4 @@ studies:
  - Metagene creation
  - Associations with clinical/phenotypic variables
  
+[Slides](bioHPC_geneLists.md)
